@@ -1,0 +1,15 @@
+# Raw data must never be committed (it goes in the Google Drive zip)
+data/
+*.zip
+
+# Large model files go in Google Drive, not GitHub
+artifacts/*.h5
+artifacts/*.keras
+artifacts/*.joblib
+artifacts/best_keras_savedmodel/
+
+# Python / notebook noise
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
