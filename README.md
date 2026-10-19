@@ -1,4 +1,4 @@
-# Diabetes Risk Classification: Traditional ML vs Deep Learning
+# Diabetes Risk Classification: Traditional ML vs Deep Learning: **Predicting Diabetes Risk from Population Health Survey Indicators**
 
 ALU Machine Learning summative (Model Training and Evaluation).
 
