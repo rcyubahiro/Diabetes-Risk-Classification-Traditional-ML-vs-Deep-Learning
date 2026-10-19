@@ -7,14 +7,14 @@ Predicts whether a survey respondent has prediabetes or diabetes from 21 low-cos
 ## Links
 
 - Report: *add after submission*
-- Google Drive folder (raw dataset zip, best models): *paste link (set to "Anyone with the link can view")*
+- Google Drive folder (raw dataset zip, best models): (https://drive.google.com/drive/folders/1Z3mc9aF6JI6_NOKZ3VIZW2C_B-6Alt2w?usp=sharing)
 - Video presentation: *paste link*
 
 ## Problem and data
 
 - **Task:** binary classification, `Diabetes_binary` (0 = no diabetes, 1 = prediabetes or diabetes).
-- **Dataset:** CDC Diabetes Health Indicators, UCI Machine Learning Repository (id 891), from the 2015 BRFSS survey. About 253,680 rows, 21 features. Open licence (CC BY 4.0).
-- **Why:** screening resources are limited in under-served communities, and a model that works from cheap survey answers could help prioritise who gets tested.
+- **Dataset:** CDC Diabetes Health Indicators, UCI Machine Learning Repository (ID 891), from the 2015 BRFSS survey. About 253,680 rows, 21 features. Open licence (CC BY 4.0).
+- **Why:** screening resources are limited in underserved communities, and a model that works from cheap survey answers could help prioritise who gets tested.
 - The raw data is **not** in this repository. The notebook downloads it automatically with `ucimlrepo`; a zipped copy is in the Google Drive folder.
 
 ## Repository layout
