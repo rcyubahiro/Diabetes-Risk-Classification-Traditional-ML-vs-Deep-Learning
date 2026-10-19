@@ -6,9 +6,9 @@ Predicts whether a survey respondent has prediabetes or diabetes from 21 low-cos
 
 ## Links
 
-- Report: *add after submission*
+- Report: https://docs.google.com/document/d/1Jon5gHEgyYJii7s2uyIeQGiAf2G0RMVy8rAIzW6BOJs/edit?usp=sharing 
 - Google Drive folder (raw dataset zip, best models): (https://drive.google.com/drive/folders/1Z3mc9aF6JI6_NOKZ3VIZW2C_B-6Alt2w?usp=sharing)
-- Video presentation: *paste link*
+- Video presentation: https://youtu.be/k4E65LQEBsA
 
 ## Problem and data
 
